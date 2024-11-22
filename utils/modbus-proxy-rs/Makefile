@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: GPL-2.0-only
 #
-# Copyright (C) 2023 Jonas Jelonek
+# Copyright (C) 2024 Jonas Jelonek
 
 include $(TOPDIR)/rules.mk
 
@@ -9,9 +9,9 @@ PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/jonasjelonek/modbus-proxy-rs.git
-PKG_SOURCE_DATE:=2023-12-14
-PKG_SOURCE_VERSION:=2d11794ac22150e07a7635382c56bbd689771105
-PKG_MIRROR_HASH:=acb2a2ea6f3e925f8d12ee0e082b3da61e460c0ace9899899ce61e60e2f48078
+PKG_SOURCE_DATE:=2024-10-01
+PKG_SOURCE_VERSION:=996b538fcdf53473e12467319934b048059dbd6c
+PKG_MIRROR_HASH:=d2b3daac6243323ff008b543f4ec326b757617d884fd9f974a42ea486d408ff5
 
 PKG_MAINTAINER:=Jonas Jelonek <jelonek.jonas@gmail.com>
 
